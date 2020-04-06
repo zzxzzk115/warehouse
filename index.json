@@ -3,8 +3,12 @@
               "title": "Game Boy",
               "file": "https://raw.githubusercontent.com/zzxzzk115/warehouse/master/Game%20Boy/index.json",
               "type": "dir"
+          },
+          {
+              "title": "Emulator",
+              "file": "https://raw.githubusercontent.com/zzxzzk115/warehouse/master/Emulator/index.json",
+              "type": "dir"
           }
-
       ]
 
   }

@@ -1,0 +1,8 @@
+{
+    "list": [{
+        "type": "launcher",
+        "title": "WqxEmulator",
+        "file": "https://raw.githubusercontent.com/zzxzzk115/warehouse/master/Emulator/WqxEmulator/file/WqxEmulator.tar.gz",
+        "shots": "https://raw.githubusercontent.com/zzxzzk115/warehouse/master/Emulator/WqxEmulator/shots/WqxEmulator.png"
+    }]
+}
