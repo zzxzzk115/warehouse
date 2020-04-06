@@ -1,7 +1,7 @@
   {
       "list": [{
               "title": "Game Boy",
-              "file": "https://github.com/zzxzzk115/warehouse/raw/master/Game%20Boy/index.json",
+              "file": "https://raw.githubusercontent.com/zzxzzk115/warehouse/master/Game%20Boy/index.json",
               "type": "dir"
           }
 
