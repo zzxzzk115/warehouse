@@ -1,0 +1,8 @@
+{
+    "list": [{
+        "type": "launcher",
+        "title": "Strange Snake",
+        "file": "https://github.com/zzxzzk115/warehouse/raw/master/Strange%20Snake/file/Strange%20Snake.tar.gz",
+        "shots": "https://github.com/zzxzzk115/warehouse/raw/master/Strange%20Snake/shots/Strange%20Snake.png"
+    }]
+}
